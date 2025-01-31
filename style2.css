@@ -41,9 +41,10 @@ li {
 }
 
 a:hover {
-  color: orange;
+  color: white;
 }
 
 li:hover {
   background-color: orange;
+  color: white;
 }
