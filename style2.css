@@ -22,9 +22,13 @@ body {
   margin-right: 30px;
 }
 
+li > a {
+  color: black;
+  text-decoration: none;
+}
+
 a {
   color: black;
-  text-decoration: underline;
 }
 
 ul {
@@ -40,8 +44,12 @@ li {
   padding: 5px;
 }
 
-a:hover {
+li > a:hover {
   color: white;
+}
+
+p > a:hover {
+  color: orange;
 }
 
 li:hover {

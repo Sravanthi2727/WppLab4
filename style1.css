@@ -2,6 +2,7 @@
   background-color: rgb(23, 110, 103);
   color: white;
   padding: 2px;
+  padding-left: 13px;
 }
 
 .body-side {
@@ -13,7 +14,7 @@ ul {
 }
 
 li {
-  background-color: rgb(158, 160, 161);
+  background-color: rgb(169, 169, 169);
   list-style: none;
   margin: 2px;
   border-radius: 2px;
@@ -24,16 +25,16 @@ a {
 }
 
 li:hover {
-  background-color: rgb(192, 187, 187);
+  background-color: rgb(216, 217, 217);
 }
 
 .b1,
 .b2 {
-  background-color: rgb(209, 207, 207);
+  background-color: rgb(217, 218, 219);
 }
 
 .b3 {
-  background-color: palevioletred;
+  background-color: rgb(236, 180, 243);
 }
 
 .side {

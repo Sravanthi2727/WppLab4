@@ -65,7 +65,11 @@ li:hover {
 }
 
 .foot {
-  margin-top: 15%;
+  margin-top: 12%;
   color: black;
   text-align: center;
+}
+
+.foot > p {
+  margin-bottom: 0px;
 }
